@@ -6,10 +6,6 @@ namespace DefaultNamespace
         {
             
         }
-
-        public void inserir()
-        {
-            
-        }
+        
     }
 }
